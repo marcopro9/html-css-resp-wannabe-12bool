@@ -1,5 +1,5 @@
 /* debug */
-.debug .container {
+/* .debug .container {
   border: 1px solid red;
   height: 200px;
   background-color: green;
@@ -7,7 +7,7 @@
 .debug [class*="col-"]{
   height: 100%;
   background-color: pink;
-  border: 1px solid black;
+  border: 1px solid black; */
 /* fine debug */
 
 /* inizio reset */
