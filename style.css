@@ -22,6 +22,9 @@
 #lezioni {
   text-align: center;
 }
+#lezioni .container h1{
+  padding: 0 0 25px;
+}
 
 /* BLOCCO STEPS */
 /* #steps .row>.left,
@@ -72,9 +75,6 @@ img {
   height: 250px;
 }
 
-#lezioni .container h1{
-  padding: 0 0 25px;
-}
 h3, hr{
   margin: 15px 0;
 }
